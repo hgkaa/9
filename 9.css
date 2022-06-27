@@ -75,6 +75,8 @@ footer {
      display:flex;
      flex-direction: column;
      justify-content: center;
+     margin-bottom: 20px;
+     margin-top: 20px;
     
    }
   
